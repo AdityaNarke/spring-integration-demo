@@ -1,0 +1,14 @@
+
+*.jar
+*.jar
+soi-adapter/mvnw.cmd
+soi-adapter/.mvn/wrapper/maven-wrapper.jar
+soi-adapter/mvnw
+soi-gateway/.mvn/wrapper/maven-wrapper.jar
+soi-gateway/.mvn/wrapper/maven-wrapper.properties
+soi-gateway/.mvn/wrapper/maven-wrapper.jar
+soi-gateway/mvnw
+soi-gateway/mvnw.cmd
+soi-stream/.mvn/wrapper/maven-wrapper.properties
+soi-stream/mvnw
+soi-stream/mvnw.cmd
